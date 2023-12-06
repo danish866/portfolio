@@ -3,7 +3,7 @@
 Welcome to my professional portfolio! This CV is designed using HTML, CSS, and Bootstrap to showcase my experience, skills, and projects.
 
 ## Preview
-You can view the live preview of the CV [here](#https://danish866.github.io/portfolio/).
+You can view the live preview of the CV [here](https://danish866.github.io/portfolio/).
 
 ## Features
 - Clean and professional design.
